@@ -6,5 +6,5 @@ function kiemTraMangTangDan(arr) {
     }
     return true; // tăng dần là true
 }
-console.log('kết quả là: ' + kiemTraMangTangDan([1, 2, 3, 1]));
-console.log('kết quả là: ' + kiemTraMangTangDan([1, 2, 3, 4]));
+console.log('kết quả là: ' + kiemTraMangTangDan([1, 2, 3, 1, 4, 3]));
+console.log('kết quả là: ' + kiemTraMangTangDan([1, 2, 3, 4, 9, 12]));
